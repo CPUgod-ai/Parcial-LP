@@ -1,0 +1,9 @@
+sqrt(25)
+sqrt(2)
+sqrt(144)
+sqrt(0)
+3 + sqrt(16)
+sqrt(9) * 2
+10 / sqrt(4)
+sqrt(7.5)
+
